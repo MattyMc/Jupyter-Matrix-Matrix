@@ -1,3 +1,7 @@
+# IBM's Data Science Experience
+
+This repository is a fork of Mike Croucher's awesome performance test Jupyter Notebook, adding the same performance test on [IBM's Data Science Experience](IBM's Data Science Experience) platform. A copy of the DSX notebook can be found [here](https://github.com/MattyMc/Jupyter-Matrix-Matrix/blob/master/results/IBMNotebook.ipynb), and this can be easily imported into DSX by clicking 'Create Notebook' and selecting 'create from URL'.
+
 # Measuring the floating point performance of your machine
 
 [Matrix-Matrix multiplication](https://en.wikipedia.org/wiki/Matrix_multiplication) is often used to benchmark machines because the mathematics is such that it is one of the few operations where one can obtain close to theoretical peak performance in pratice.
